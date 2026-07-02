@@ -66,3 +66,7 @@ Com a tabela preenchida, escreva um plano de ação de 5 pontos para o seu proje
 4. **Métricas de Controle:** Quais são os 2 ou 3 indicadores de mercado (ex: taxa de cadastro, recorrência, ações criadas) que vão provar que seu diferencial está funcionando?
 5. **Próximo Passo Prático:** Qual é a primeira funcionalidade ou processo simples que você precisa estruturar para validar esse diferencial?
 
+---
+
+[Próximo módulo ➡️](./07-construindo-o-primeiro-mvp.md)
+

@@ -50,3 +50,7 @@ Crie um arquivo chamado `exercicio-modulo-02.md` no seu repositório de acompanh
 *   Uma atividade crítica que ainda é feita de forma manual.
 
 Ao final da semana, o seu objetivo é reunir pelo menos dez problemas reais anotados nesta lista para utilizarmos no próximo passo de validação.
+
+---
+
+[Próximo módulo ➡️](./03-validando-o-problema.md)

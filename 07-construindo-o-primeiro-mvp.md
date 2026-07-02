@@ -47,3 +47,7 @@ Descreva, em até 5 linhas, como você vai testar essa hipótese usando ferramen
 ### Passo 3: Defina a Métrica de Sucesso (Critérium de Parada)
 Qual é o número mínimo que prova que as pessoas realmente se importam com a sua solução?
 *   *Exemplo:* Pelo menos 60% das pessoas do grupo atualizarem seus treinos por duas semanas seguidas.
+
+---
+
+[Próximo módulo ➡️](./08-pitch-perfeito.md)

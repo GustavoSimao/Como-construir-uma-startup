@@ -75,3 +75,7 @@ Crie um arquivo chamado `exercicio-modulo-01.md` no seu repositório de acompanh
 3. O que aconteceria na sua vida ou no seu trabalho se ele deixasse de existir amanhã?
 
 Ao concluir o exercício, compare as respostas. Você perceberá na prática que nenhum desses produtos conquistou você apenas pela tecnologia utilizada nos bastidores. Todos conquistaram espaço porque entregam algum tipo de valor claro para quem os utiliza.
+
+---
+
+[Próximo módulo ➡️](./02-encontrando-problemas.md)

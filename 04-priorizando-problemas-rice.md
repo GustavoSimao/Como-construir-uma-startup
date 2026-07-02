@@ -37,3 +37,7 @@ Nenhuma fórmula substitui o julgamento crítico do empreendedor. O RICE organiz
 ## Exercício
 
 Monte uma tabela com os problemas validados no Módulo 3. Atribua as notas de 1 a 10 para cada pilar do RICE e calcule a pontuação final de cada um. Escreva, em poucas linhas, a razão pela qual o problema com maior pontuação merece ser o seu próximo passo e por que os outros, mesmo sendo bons, podem esperar. Esse problema vencedor será utilizado no próximo módulo.
+
+---
+
+[Próximo módulo ➡️](./05-lean-canvas.md)

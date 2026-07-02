@@ -73,3 +73,7 @@ Entenda a rotina dessas pessoas e registre em tópicos objetivos dentro do arqui
 *   Quais são as maiores dificuldades e frustrações enfrentadas durante o processo improvisado.
 
 Com base nos dados coletados e nas respostas do Filtro de Validação, selecione os três problemas mais promissores e com maior tração de interesse para utilizarmos no processo de priorização do próximo módulo.
+
+---
+
+[Próximo módulo ➡️](./04-priorizando-problemas-rice.md)
