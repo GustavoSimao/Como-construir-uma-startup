@@ -6,7 +6,7 @@ No entanto, nenhuma dessas ferramentas testa a hipótese mais importante primeir
 
 ---
 
-## 🔬 Pensando no Menor Experimento Possível
+## Pensando no Menor Experimento Possível
 
 Antes de construir qualquer código, desenhe uma validação manual, simples e trabalhosa. O objetivo do MVP (*Minimum Viable Product*) não é ser escalável, é ser um ambiente de aprendizado rápido.
 
@@ -18,7 +18,7 @@ Se esse experimento manual, que levou 20 minutos para ser configurado, gerar eng
 
 ---
 
-> 💡 **Perspectiva de Mercado: E se meu foco for B2B ou Consultoria?**
+> **Perspectiva de Mercado: E se meu foco for B2B ou Consultoria?**
 >
 > Se a sua ideia de negócio está mapeada para resolver dores de Pequenas e Médias Empresas (PMEs), a lógica do MVP permanece idêntica. 
 > 
@@ -28,7 +28,7 @@ Se esse experimento manual, que levou 20 minutos para ser configurado, gerar eng
 
 ---
 
-## 🏋️ Exercício Prático: O Experimento Sem Código
+## Exercício Prático: O Experimento Sem Código
 
 Chegou a hora de definir o MVP do seu projeto. Você vai desenhar um teste que possa ser executado sem abrir o editor de código.
 
