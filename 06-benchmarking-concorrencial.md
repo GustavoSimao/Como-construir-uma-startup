@@ -6,7 +6,7 @@ Antes de desenhar qualquer tela, é fundamental realizar um benchmarking para ma
 
 ## Análise de Concorrência e Referências
 
-> 📌 **Nota: Concorrente Direto vs. Concorrente Indireto**
+> **Nota: Concorrente Direto vs. Concorrente Indireto**
 >
 > *   **Concorrente Direto:** É quem resolve **o mesmo problema**, da **mesma forma** e para o **mesmo público** que você. Se você está criando um app de desafios esportivos, outros apps de desafios ou gamificação de treinos são seus concorrentes diretos (eles disputam o mesmo clique do seu usuário).
 > *   **Concorrente Indireto:** É quem resolve **o mesmo problema**, mas de **uma forma completamente diferente**. O maior concorrente indireto de um software de gestão muitas vezes não é outro software, mas sim uma *planilha de Excel* ou um *caderno de anotações*. Fique atento a eles, pois mudar o hábito de quem usa uma solução indireta costuma ser o maior desafio de mercado.
@@ -36,7 +36,7 @@ A partir da análise competitiva, estabelecemos a seguinte ordem de execução e
 
 ---
 
-## 🏋️ Exercício Prático: Mapeando o seu Mercado
+## Exercício Prático: Mapeando o seu Mercado
 
 Agora é a sua vez. Pegue o problema que você validou nos Módulos 2 e 3 e a solução que começou a desenhar no Lean Canvas (Módulo 5). Você vai analisar quem já está no campo de jogo e como seu projeto vai se diferenciar.
 
@@ -49,7 +49,7 @@ Crie um arquivo chamado `exercicio-modulo-06.md` no seu repositório de acompanh
 | **2.** | | | | | |
 | **3.** | | | | | |
 
-> 💡 **Dica de Ouro:** Não limite sua análise apenas a concorrentes idênticos. Olhe para mercados paralelos. Se você está criando um app de finanças para devs, seu concorrente indireto pode ser uma planilha, mas sua referência de engajamento diário pode ser o Duolingo.
+> **Dica de Ouro:** Não limite sua análise apenas a concorrentes idênticos. Olhe para mercados paralelos. Se você está criando um app de finanças para devs, seu concorrente indireto pode ser uma planilha, mas sua referência de engajamento diário pode ser o Duolingo.
 
 ---
 
@@ -63,8 +63,3 @@ Com a tabela preenchida, escreva um plano de ação de 5 pontos para o seu proje
 4. **Métricas de Controle:** Quais são os 2 ou 3 indicadores de mercado (ex: taxa de cadastro, recorrência, ações criadas) que vão provar que seu diferencial está funcionando?
 5. **Próximo Passo Prático:** Qual é a primeira funcionalidade ou processo simples que você precisa estruturar para validar esse diferencial?
 
----
-
-### 📥 Entrega
-
-Gere o arquivo `exercicio-modulo-06.md` com a tabela e o plano de ação preenchidos e submeta no seu repositório. Lembre-se: **conhecer a concorrência é o primeiro passo para blindar o seu espaço e não ser engolido por ela.**
