@@ -32,18 +32,18 @@ Ao realizar este curso do começo ao fim, executando os exercícios e dominando 
 
 Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: Focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
 
-<!-- ROADMAP OF PROJECT -->
+## Módulos
 
-## Roadmap
-
-	Pensando como um Empreendedor	A diferença entre desenvolver software e desenvolver um negócio
-	Encontrando Problemas	Como observar o dia a dia e identificar oportunidades reais
-	Validando o Problema	Customer Development e como conversar com o mercado
-	Priorizando Problemas (RICE)	O framework RICE para escolher o que construir primeiro
-	Estruturando um Modelo de Negócio (Lean Canvas)	Como transformar um problema em um negócio sustentável
-	Benchmarking Concorrencial	Análise de concorrência e posicionamento de mercado
-	Construindo o Primeiro MVP	Como validar sua hipótese com o mínimo de espaço possível
-	O Pitch Perfeito	Como apresentar sua ideia para investidores, parceiros e equipe
+| # | Módulo | Descrição |
+|---|--------|-----------|
+| 1 | [Pensando como um Empreendedor](./01-pensando-como-empreendedor.md) | A diferença entre desenvolver software e desenvolver um negócio |
+| 2 | [Encontrando Problemas](./02-encontrando-problemas.md) | Como observar o dia a dia e identificar oportunidades reais |
+| 3 | [Validando o Problema](./03-validando-o-problema.md) | Customer Development e como conversar com o mercado |
+| 4 | [Priorizando Problemas (RICE)](./04-priorizando-problemas-rice.md) | O framework RICE para escolher o que construir primeiro |
+| 5 | [Estruturando um Modelo de Negócio (Lean Canvas)](./05-lean-canvas.md) | Como transformar um problema em um negócio sustentável |
+| 6 | [Benchmarking Concorrencial](./06-benchmarking-concorrencial.md) | Análise de concorrência e posicionamento de mercado |
+| 7 | [Construindo o Primeiro MVP](./07-construindo-o-primeiro-mvp.md) | Como validar sua hipótese com o mínimo de espaço possível |
+| 8 | [O Pitch Perfeito](./08-pitch-perfeito.md) | Como apresentar sua ideia para investidores, parceiros e equipe |
   
   
 <!-- CONTRIBUTING -->
