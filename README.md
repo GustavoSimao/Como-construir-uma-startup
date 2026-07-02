@@ -32,13 +32,7 @@ Ao realizar este curso do começo ao fim, executando os exercícios e dominando 
 
 Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: Focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
 
-<<<<<<< HEAD
-<!-- ROADMAP OF PROJECT -->
-
-## Roadmap
-=======
 ## Módulos
->>>>>>> ddb068e4ec9094040e878ce37e8f7a17087e3b68
 
 | # | Módulo | Descrição |
 |---|--------|-----------|
