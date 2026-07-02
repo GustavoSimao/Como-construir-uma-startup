@@ -27,7 +27,7 @@ A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referên
 
 ---
 
-## Plano de Action Baseado no Benchmarking
+## Plano de Acao Baseado no Benchmarking
 
 A partir da análise competitiva, estabelecemos a seguinte ordem de execução estratégica:
 
