@@ -14,7 +14,7 @@ No caso do nosso aplicativo de treinos, o MVP inicial não precisa de um app na 
 1. Um grupo fechado no **WhatsApp** com 15 pessoas do segmento-alvo.
 2. Uma planilha do **Google Sheets** compartilhada, atualizada manualmente por você ao final do dia com os treinos que a galera mandou no grupo, gerando um ranking semanal.
 
-Se esse experimento manual, que levou 20 minutos para ser configurado, gerar engajamento, conversas no grupo e disputa real, a sua hipótese de negócio está validada. Só então faz sentido automatizar o processo criando o produto de software real.
+Se esse experimento manual, que levou 20 minutos para ser configurado, gerar engajamento, conversas no grupo e disputa, a hipótese de negócio está validada. Só então faz sentido automatizar o processo criando o produto de software real.
 
 ---
 
