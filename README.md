@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">Como Construir uma Startup</h2>
 
-  <h1 align="center"><img src="./.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src="./logo_startup4noobs.svg" alt="Startup4noobs" width="200"></h1>
   
   <p align="center">
     <br />
