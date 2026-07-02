@@ -9,9 +9,9 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">Como Construir uma Startup</h2>
+  <h1 align="center" style="font-size: 2.5em;">Como Construir uma Startup</h1>
 
-  <h1 align="center"><img src="./logo_startup4noobs.svg" alt="Startup4noobs" width="200"></h1>
+  <h2 align="center"><img src="./logo_startup4noobs.svg" alt="Startup4noobs" width="300"></h2>
   
   <p align="center">
     <br />
