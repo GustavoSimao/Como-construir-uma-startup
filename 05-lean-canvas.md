@@ -56,8 +56,3 @@ Ao preencher cada um dos blocos, você deve marcar obrigatoriamente o status de 
 
 > ⚠️ **Alerta Antiestufamento:** Ao finalizar o preenchimento, releia o quadro inteiro. Se você perceber que preencheu algum bloco com respostas genéricas (ex: colocar *"Canais: Internet"*) apenas para não deixar a célula em branco, apague e investigue mais a fundo. Cada linha do seu canvas precisa ser um plano de ação real.
 
----
-
-### 📥 Entrega
-
-Submeta o arquivo `exercicio-modulo-05.md` com o seu mapa de modelo de negócio estruturado. Com essa visão holística pronta, você estará 100% preparado para mapear a concorrência no próximo módulo!
