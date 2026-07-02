@@ -17,9 +17,9 @@
 
 Ao realizar este curso do começo ao fim, executando os exercícios e dominando os conceitos apresentados, você terá as bases necessárias para finalizar o seu MVP (*Minimum Viable Product*) com um produto sólido, validado e estruturado para o mercado.
 
-Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: sem enrolação, direto ao ponto e focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
+Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: Focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
 
-## 🗺️ Módulos
+## Módulos
 
 | # | Módulo | Descrição |
 |---|--------|-----------|
@@ -32,7 +32,7 @@ Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: sem en
 | 7 | [Construindo o Primeiro MVP](./07-construindo-o-primeiro-mvp.md) | Como validar sua hipótese com o mínimo de espaço possível |
 | 8 | [O Pitch Perfeito](./08-pitch-perfeito.md) | Como apresentar sua ideia para investidores, parceiros e equipe |
 
-## 🛠️ Como Contribuir
+## Como Contribuir
 
 Este é um projeto *open-source* da comunidade para a comunidade. Toda ajuda para deixar o material mais rico e preciso é super bem-vinda! Você pode contribuir de duas formas:
 
