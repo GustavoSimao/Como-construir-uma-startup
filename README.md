@@ -1,25 +1,40 @@
+<!-- Logo 4noobs -->
+
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/header_4noobs.svg">
+  </a>
+</p>
+
+<!-- Title -->
+
 <p align="center">
   <h2 align="center">Como Construir uma Startup</h2>
+
+  <h1 align="center"><img src="./.github/deno.svg" alt="Imagem da linguagem" width="120"></h1>
   
   <p align="center">
-    <strong>Aprenda a mentalidade e os frameworks de mercado moldados para desenvolvedores que visam criar uma startup.</strong>
     <br />
+    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
     <br />
-    <a href="#-módulos"><strong>Explore os módulos »</strong></a>
     <br />
     <a href="https://github.com/GustavoSimao/Como-construir-uma-startup/issues">Report Bug</a>
     ·
     <a href="https://github.com/GustavoSimao/Como-construir-uma-startup/issues">Request Feature</a>
   </p>
 </p>
+    
+ <!-- ABOUT THE PROJECT -->
 
-## Sobre o Projeto
+## **Aprenda a mentalidade e os frameworks de mercado moldados para desenvolvedores que visam criar uma startup.**
 
 Ao realizar este curso do começo ao fim, executando os exercícios e dominando os conceitos apresentados, você terá as bases necessárias para finalizar o seu MVP (*Minimum Viable Product*) com um produto sólido, validado e estruturado para o mercado.
 
 Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: sem enrolação, direto ao ponto e focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
 
-## 🗺️ Módulos
+<!-- ROADMAP OF PROJECT -->
+
+## Roadmap
 
 | # | Módulo | Descrição |
 |---|--------|-----------|
@@ -31,14 +46,29 @@ Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: sem en
 | 6 | [Benchmarking Concorrencial](./06-benchmarking-concorrencial.md) | Análise de concorrência e posicionamento de mercado |
 | 7 | [Construindo o Primeiro MVP](./07-construindo-o-primeiro-mvp.md) | Como validar sua hipótese com o mínimo de espaço possível |
 | 8 | [O Pitch Perfeito](./08-pitch-perfeito.md) | Como apresentar sua ideia para investidores, parceiros e equipe |
+  
+  
+<!-- CONTRIBUTING -->
 
-## 🛠️ Como Contribuir
+## Como Contribuir
 
-Este é um projeto *open-source* da comunidade para a comunidade. Toda ajuda para deixar o material mais rico e preciso é super bem-vinda! Você pode contribuir de duas formas:
+Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
+são **extremamente apreciadas**
 
-*   **Encontrou problemas?** Abra uma *Issue* detalhando o erro gramatical, link quebrado ou conceito que ficou confuso.
-*   **Quer melhorar o material?** Faça um *Fork* do repositório, realize as alterações necessárias (melhorias nos exercícios, correções de texto ou novos estudos de caso) e envie um *Pull Request*.
+1. Realize um Fork do projeto
+2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
+3. Realize o Commit (`git commit -m 'Adicionado conteudo brabo'`)
+4. Realize o Push no Branch (`git push origin feature/featureBraba`)
+5. Abra um Pull Request
 
 ## Autor
 
-*   **Gustavo Simão** — [LinkedIn](https://www.linkedin.com/in/gu-simao/)
+- **Gustavo Simão** - _Desenvolvedor Back End_ - [LinkedIn](https://www.linkedin.com/in/gu-simao/) 
+
+---
+
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./.github/footer_4noobs.svg" width="380">
+  </a>
+</p>
