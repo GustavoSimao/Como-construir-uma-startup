@@ -4,6 +4,8 @@ Se você seguiu o exercício do módulo anterior, provavelmente terminou com tr�
 
 ## O framework RICE
 
+> 💡 **Nota de Contexto:** No mercado tradicional de tecnologia, o RICE é amplamente utilizado por gerentes de produto para priorizar *features* e tarefas que vão entrar no backlog de desenvolvimento. Aqui, nós vamos inverter essa lógica: **usaremos o framework para priorizar dores e problemas reais de mercado**, garantindo que você foque seus esforços na dor que mais gera valor antes mesmo de começar a codar.
+
 O RICE é uma sigla para quatro perguntas fundamentais:
 
 Reach (Alcance): Quantas pessoas esse problema atinge em um determinado período? Não é uma opinião, é uma estimativa.
