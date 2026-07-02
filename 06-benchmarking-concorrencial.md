@@ -2,14 +2,17 @@
 
 Antes de desenhar qualquer tela, é fundamental realizar um benchmarking para mapear o mercado, entender onde os competidores falham e identificar métodos que garantem boas performances para adaptá-los à sua realidade.
 
----
+**No nosso caso, essa análise precisa ir além do óbvio.** Como o nosso modelo de negócio tem o objetivo de transformar o tédio das rotinas físicas em dinâmicas sociais altamente engajadoras, o nosso "mercado" não é apenas o de saúde e fitness, mas sim o mercado da **retenção da atenção**. 
 
-## Análise de Concorrência e Referências
+Se queremos garantir uma Experiência do Cliente (CX) disruptiva, precisamos entender tanto os players tradicionais do esporte quanto as plataformas que dominam o entretenimento, a monetização e a cultura de desafios virtuais hoje. Só assim conseguiremos extrair as melhores mecânicas de engajamento para aplicar no mundo real, criando uma barreira competitiva sólida e blindando nosso produto contra soluções genéricas.
+
+Para estruturar essa visão, dividimos nossa análise sob dois prismas fundamentais que são concorrentes diretos e indiretos:
+
+### Análise de Concorrência e Referências
 
 > **Nota: Concorrente Direto vs. Concorrente Indireto**
->
-> *   **Concorrente Direto:** É quem resolve **o mesmo problema**, da **mesma forma** e para o **mesmo público** que você. Se você está criando um app de desafios esportivos, outros apps de desafios ou gamificação de treinos são seus concorrentes diretos (eles disputam o mesmo clique do seu usuário).
-> *   **Concorrente Indireto:** É quem resolve **o mesmo problema**, mas de **uma forma completamente diferente**. O maior concorrente indireto de um software de gestão muitas vezes não é outro software, mas sim uma *planilha de Excel* ou um *caderno de anotações*. Fique atento a eles, pois mudar o hábito de quem usa uma solução indireta costuma ser o maior desafio de mercado.
+> * **Concorrente Direto:** É quem resolve o mesmo problema, da mesma forma e para o mesmo público que você. Se você está criando um app de desafios esportivos, outros apps de desafios ou gamificação de treinos são seus concorrentes diretos (eles disputam o mesmo clique do seu usuário).
+> * **Concorrente Indireto:** É quem resolve o mesmo problema, mas de uma forma completamente diferente. O maior concorrente indireto de um software de gestão muitas vezes não é outro software, mas sim uma planilha de Excel ou um caderno de anotações. Fique atento a eles, pois mudar o hábito de quem usa uma solução indireta costuma ser o maior desafio de mercado.
 
 A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referências inspiradoras para o nosso mercado:
 
