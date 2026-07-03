@@ -39,9 +39,9 @@ A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referên
 
 A partir da análise competitiva, estabelecemos a seguinte ordem de execução estratégica:
 
-1. **Isolar o problema central:** Falta de socialização e engajamento lúdico nos aplicativos esportivos tradicionais.
-2. **Selecionar referências para modelagem:** Absorver os rankings dos jogos competitivos e o formato de engajamento dinâmico do TikTok e de reality shows.
-3. **Definir os diferenciais:** Conectar os desafios ao mundo físico do usuário, permitindo que a base de clientes atue tanto como atleta quanto como espectadora de desafios virais.
+1. **O Problema Central Isolado:** Falta de interatividade em tempo real e engajamento lúdico nos aplicativos esportivos tradicionais, que dependem de posts estáticos.
+2. **Referências de Modelagem:** Absorver os rankings dos jogos competitivos e a dinâmica de transmissão em tempo real (lives mobile de baixa latência) da Twitch e do TikTok.
+3. **Diferencial Inegociável:** Permitir que o usuário transmita sua corrida de rua ou treino em tempo real com dados de performance na tela, fazendo com que seu círculo de amigos assista, comente e torça ao vivo. Essa mecânica cria uma comunidade ativa que atua tanto como atleta quanto como espectadora, **blindando** o ecossistema contra a concorrência de apps genéricos de tracking.
 4. **Estipular métricas de controle:** Acompanhar o volume de desafios criados, as taxas de retenção periódica e os contratos firmados com parceiros comerciais.
 5. **Alinhar com a equipe:** Comunicar os caminhos de diferenciação e os indicadores que comprovarão o sucesso da estratégia.
 
