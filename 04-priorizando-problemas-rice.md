@@ -26,11 +26,11 @@ Quanto maior o resultado, maior a prioridade de teste daquela hipótese.
 
 ---
 
-## Nota metodológica importante
-
-O RICE não define “a melhor ideia de negócio”. Ele define apenas **qual hipótese deve ser testada primeiro com os recursos atuais**.
-
-Um problema com pontuação menor pode ser extremamente valioso no futuro. Ele só não é prioridade agora dentro do seu contexto de aprendizado e validação.
+> ## Nota metodológica importante
+>
+>O RICE não define “a melhor ideia de negócio”. Ele define apenas **qual hipótese deve ser testada primeiro com os recursos atuais**.
+>
+>Um problema com pontuação menor pode ser extremamente valioso no futuro. Ele só não é prioridade agora dentro do seu contexto de aprendizado e validação.
 
 ---
 
