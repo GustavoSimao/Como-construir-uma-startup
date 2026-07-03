@@ -19,15 +19,38 @@ Para testar essa hipótese, o MVP inicial não precisa de um app na Google Play 
 
 Se esse experimento manual, que levou 20 minutos para ser configurado, gerar engajamento, conversas no grupo e disputa, a hipótese de negócio está validada. Só então faz sentido automatizar o processo criando o produto de software real.
 
+
 ---
 
-> **Perspectiva de Mercado: E se meu foco for B2B ou Consultoria?**
->
-> Se a sua ideia de negócio está mapeada para resolver dores de Pequenas e Médias Empresas (PMEs), a lógica do MVP permanece idêntica. 
-> 
-> Imagine que você identificou que líderes de operação perdem horas na triagem manual de relatórios operacionais. Grandes *fintechs* resolvem isso com automações preditivas e dashboards complexos de IA. Em vez de desenvolver um software caro e demorado agora, você desenha um MVP manual: cria formulários gratuitos (Google Forms) integrados a uma planilha para consolidar as informações em um único painel que você mesmo alimenta. 
-> 
-> Isso resolve a dor de tempo do cliente imediatamente, valida se os gerentes realmente consumiriam esses dados diariamente e **blinda** o caixa da sua startup contra o desperdício de recursos de desenvolvimento.
+## Perspectiva de Mercado: E se meu foco for B2B ou Consultoria?
+
+Se a sua ideia de negócio está mapeada para resolver dores de Pequenas e Médias Empresas (PMEs), a lógica do MVP permanece idêntica.
+
+Imagine que você identificou que líderes de operação perdem horas na triagem manual de relatórios operacionais. Grandes fintechs resolvem isso com automações preditivas e dashboards complexos de IA. Em vez de desenvolver um software caro e demorado agora, você desenha um MVP manual: cria formulários gratuitos (Google Forms) integrados a uma planilha para consolidar as informações em um único painel que você mesmo alimenta.
+
+Isso resolve a dor de tempo do cliente imediatamente, valida se os gerentes realmente consumiriam esses dados diariamente e blinda o caixa da sua startup contra o desperdício de recursos de desenvolvimento.
+
+---
+
+## Quando o Código Faz Parte da Hipótese
+
+O princípio deste módulo não é "nunca escreva código para validar uma ideia". Em alguns produtos, a tecnologia faz parte da própria hipótese e, portanto, é impossível validá-la sem desenvolvimento.
+
+Imagine um aplicativo que utiliza visão computacional para contar repetições de exercícios automaticamente. A principal dúvida não é se as pessoas fariam exercícios, mas se a tecnologia consegue identificar os movimentos com precisão suficiente para gerar valor. Nesse caso, será necessário desenvolver um protótipo técnico para testar essa hipótese. O mesmo vale para produtos baseados em inteligência artificial, algoritmos de recomendação, processamento de imagens, criptografia ou qualquer solução cujo diferencial dependa diretamente da tecnologia.
+
+Mesmo nesses cenários, o princípio continua o mesmo: desenvolva apenas o mínimo necessário para responder à principal incerteza do produto. Se a hipótese é que o algoritmo funciona, construa apenas o algoritmo. Se a hipótese é que as pessoas querem usar a solução, valide primeiro o comportamento antes de investir em funcionalidades como autenticação, notificações, perfis completos ou infraestrutura de produção.
+
+Antes de começar a desenvolver, faça sempre uma última pergunta: o que exatamente estou tentando validar com este código? Se você não consegue responder essa pergunta com clareza, provavelmente ainda está construindo funcionalidades antes da hora.
+
+### Quando Começar a Desenvolver?
+
+Uma dúvida comum é em que momento parar de validar e começar a programar. A resposta é simples: quando o código passa a resolver um problema do experimento, e não apenas uma vontade de construir.
+
+Enquanto você ainda está tentando descobrir se as pessoas realmente têm aquela dor, se elas se importam com a solução e se voltariam a utilizá-la, escrever software dificilmente acelera o aprendizado. Na maioria das vezes, ele apenas aumenta o custo e o tempo investidos em uma hipótese que ainda pode estar errada.
+
+O desenvolvimento começa a fazer sentido quando o processo manual deixa de ser suficiente. Se você já validou que existe interesse, as pessoas estão utilizando a solução de forma consistente e a operação manual começa a consumir tempo, gerar erros ou limitar o crescimento do experimento, a automação passa a ser o próximo passo natural.
+
+Em outras palavras, o primeiro código do seu produto não deve servir para validar uma hipótese, mas para escalar uma hipótese que já demonstrou sinais concretos de funcionar. Até esse momento, seu maior objetivo não é desenvolver mais rápido, é aprender mais rápido.
 
 ---
 
