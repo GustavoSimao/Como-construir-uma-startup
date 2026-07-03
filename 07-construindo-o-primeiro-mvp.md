@@ -2,7 +2,9 @@
 
 Com o benchmark em mãos, chegamos ao ponto de execução. A tentação natural de um desenvolvedor é abrir o editor de código e listar funcionalidades: sistemas de login complexos, perfis detalhados com upload de imagem e microsserviços de notificação. 
 
-No entanto, nenhuma dessas ferramentas testa a hipótese mais importante primeiro: **os usuários voltam a se exercitar com mais constância quando existe um componente social e competitivo?** Se essa premissa for falsa, nenhuma arquitetura limpa ou interface bonita salvará o produto.
+No entanto, nenhuma dessas ferramentas testa a hipótese mais importante primeiro: qual é a única suposição que, se for falsa, derruba todo o resto do negócio? Antes de escrever uma linha de código, você precisa isolar essa hipótese central, geralmente relacionada a um comportamento humano que você está apostando que vai acontecer, e testá-la da forma mais barata e rápida possível. Se essa premissa for falsa, nenhuma arquitetura limpa ou interface bonita salvará o produto.
+
+**No nosso caso, a hipótese central é direta:** os usuários voltam a se exercitar com mais constância quando existe um componente social e competitivo? Se isso for falso, todo o resto (perfis, notificações, gamificação) é irrelevante.
 
 ---
 
@@ -10,7 +12,8 @@ No entanto, nenhuma dessas ferramentas testa a hipótese mais importante primeir
 
 Antes de construir qualquer código, desenhe uma validação manual, simples e trabalhosa. O objetivo do MVP (*Minimum Viable Product*) não é ser escalável, é ser um ambiente de aprendizado rápido.
 
-No caso do nosso aplicativo de treinos, o MVP inicial não precisa de um app na Google Play ou App Store. Ele pode ser apenas:
+Para testar essa hipótese, o MVP inicial não precisa de um app na Google Play ou App Store. Ele pode ser apenas:
+
 1. Um grupo fechado no **WhatsApp** com 15 pessoas do segmento-alvo.
 2. Uma planilha do **Google Sheets** compartilhada, atualizada manualmente por você ao final do dia com os treinos que a galera mandou no grupo, gerando um ranking semanal.
 
