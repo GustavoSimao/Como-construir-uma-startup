@@ -63,7 +63,8 @@ Se a maioria das respostas para esses critérios for negativa, o problema deve s
 
 Dos problemas reais que você encontrou e listou no módulo anterior, selecione cinco para colocar à prova.
 
-Crie o arquivo `exercicio-modulo-03.md` no seu repositório de acompanhamento. Converse com pelo menos cinco pessoas reais sobre cada um desses cinco problemas escolhidos. Lembre-se do proibidão: não apresente soluções ou ideias de software durante a conversa.
+Crie o arquivo `exercicio-modulo-03.md` no seu repositório de acompanhamento. Converse com pelo menos cinco pessoas reais sobre cada um desses cinco problemas escolhidos.
+Obs.: não apresente soluções ou ideias de software durante a conversa.
 
 Entenda a rotina dessas pessoas e registre em tópicos objetivos dentro do arquivo:
 
