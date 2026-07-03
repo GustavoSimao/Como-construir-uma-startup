@@ -1,79 +1,140 @@
 # Módulo 3 — Validando o Problema
 
-Um empreendedor não pode deixar que a paixão cega pela ideia substitua o pensamento crítico e analítico. É comum acreditar piamente que uma ideia é excelente e que tem potencial para se tornar um grande negócio. Em alguns casos isso é verdade, em outros não. Às vezes o problema realmente existe, mas não há mercado suficiente, ou o momento econômico não é o ideal para investir nele. Descobrir quais problemas realmente merecem o seu tempo de desenvolvimento é o foco desta etapa.
+Um empreendedor não pode deixar que a paixão pela ideia substitua o pensamento crítico. É comum acreditar que uma ideia é excelente e que tem potencial para se tornar um grande negócio. Em alguns casos isso é verdade, em outros não. Às vezes o problema realmente existe, mas não há mercado suficiente ou o momento não é o ideal para investir nele. Descobrir quais problemas realmente merecem seu tempo é o foco desta etapa.
 
----
+## Nem Todo Problema Merece uma Solução
 
-## Nem todo Problema Merece uma Solução
+Encontrar um problema é relativamente simples, transformá-lo em um negócio é outra história. Alguns problemas acontecem uma única vez, outros são tão pequenos que ninguém se importa em resolvê-los, e existem aqueles que já possuem soluções suficientemente boas no mercado.
 
-Encontrar um problema superficial é relativamente simples; transformá-lo em um modelo de negócio sustentável é outra história. Alguns problemas acontecem uma única vez na vida do cliente, outros são tão pequenos que ninguém se importa em gastar dinheiro para resolvê-los, e existem aqueles que já possuem soluções gratuitas ou suficientemente boas no mercado.
+Durante o restante deste curso, vamos acompanhar um problema específico como exemplo. Escolhemos algo sutil, escondido dentro de um comportamento comum.
 
-Durante o restante deste curso, vamos acompanhar um problema específico como exemplo central. Escolhemos algo sutil, escondido dentro de um comportamento comum:
+> **Problema:** atividades físicas entre adultos, quando feitas de forma recreativa, perdem engajamento com o tempo por falta de contexto social, competição e continuidade da experiência.
 
-> **O Caso de Estudo:** Imagine um grupo de amigos que, quando criança, apostava corrida no quarteirão e inventava desafios esportivos dinâmicos. Anos depois, esses mesmos indivíduos continuam se exercitando, mas de forma totalmente isolada na academia ou correndo com fones de ouvido. A brincadeira social sumiu, embora a vontade de competir e interagir continue lá. Não existe mais um contexto em que isso pareça natural no dia a dia.
-
-Será que isso realmente incomoda alguém a ponto de gerar receita ou é apenas nostalgia passageira? As pessoas sentem falta disso ou já se acostumaram com a rotina isolada? Antes de procurar uma solução técnica, precisamos procurar evidências reais de mercado.
+Será que isso realmente incomoda alguém ou é apenas uma percepção isolada? As pessoas sentem falta desse componente social ou já se acostumaram a treinar sozinhas? Antes de procurar uma solução, precisamos procurar evidências reais.
 
 ---
 
 ## Antes de Procurar uma Solução, Procure Evidências
 
-Resista à sua vontade imediata de desenvolvedor de desenhar telas ou modelar bancos de dados no PostgreSQL ou MySQL. Faça a pergunta fundamental: Como as pessoas resolvem ou contornam isso hoje?
+Resista à vontade imediata de desenhar telas ou modelar bancos de dados. Faça a pergunta fundamental:
 
-Problemas reais e dolorosos sempre deixam pistas claras. Normalmente existe alguém improvisando uma solução precária por conta própria. Pode ser um grupo de amigos que aposta um lanche manualmente em quem corre mais rápido no mês ou um grupo informal de WhatsApp criado exclusivamente para cobrar a presença de outros nos treinos. Essas adaptações e gambiarras operacionais são excelentes sinais de que há uma demanda real reprimida no mercado.
+> **Como as pessoas lidam com esse problema hoje?**
 
----
-
-## Conversando com quem Vive o Problema
-
-O processo de conversar estrategicamente com o mercado é conhecido como *Customer Development*. Antes de construir qualquer linha de código ou setup de projeto, converse com as pessoas que convivem com a situação, mas com um detalhe crucial: faça isso sem tentar vender nada ou apresentar sua ideia. 
-
-Entenda a rotina pura delas fazendo perguntas focadas exclusivamente no presente e em fatos reais:
-
-*   Como você realiza suas atividades físicas hoje? Prefere treinar sozinho ou em grupo? Por quê?
-*   Qual é a sua maior dificuldade atual em manter a constância nos treinos semanais?
-*   Você já tentou organizar desafios, apostas ou dinâmicas com amigos antes? Se sim, como foi e o que aconteceu?
-
-Evite terminantemente perguntas hipotéticas como "Você usaria um aplicativo que faz isso?". As pessoas são ótimas imaginando cenários futuros ideais para agradar o entrevistador, mas os comportamentos passados e presentes são muito mais confiáveis do que opiniões abstratas.
+Problemas reais deixam pistas. Normalmente existe alguém improvisando uma solução. Pode ser um grupo de amigos que aposta um lanche em quem corre mais durante o mês, um grupo de WhatsApp para compartilhar treinos ou pessoas utilizando planilhas para acompanhar desafios informais. Essas adaptações são excelentes sinais de que existe uma demanda real.
 
 ---
 
-## Nem toda Oportunidade Nasce de uma Dor Crítica
+## Nem Toda Evidência Vem de uma Conversa
 
-Vale destacar que alguns produtos de extremo sucesso não resolvem uma dor de cabeça crítica, mas tornam uma atividade existente muito mais prazerosa, motivadora ou eficiente. 
+Antes de agendar qualquer entrevista, vale gastar um tempo procurando evidências que já existem. Esse tipo de pesquisa é chamado de **pesquisa documental** e serve para confirmar ou derrubar uma hipótese sem depender de ninguém responder você.
 
-O Duolingo, por exemplo, não surgiu porque as pessoas estavam impossibilitadas de estudar idiomas, mas porque manter a constância e a motivação diária utilizando os métodos tradicionais e livros didáticos era uma tarefa árdua e massante. Eles gamificaram uma rotina existente.
+Você pode procurar:
+
+- Comentários e avaliações de aplicativos concorrentes nas lojas.
+- Discussões em fóruns, grupos do Facebook, Reddit, Discord ou outras comunidades relacionadas ao tema.
+- Reclamações recorrentes em redes sociais sobre produtos ou serviços semelhantes.
+- Dados públicos de instituições como IBGE, Sebrae ou associações do setor.
+- Reportagens, pesquisas e estudos que já tenham investigado esse comportamento.
+
+Esse tipo de pesquisa costuma ser mais rápido e barato do que entrevistas e ajuda a chegar nas conversas com perguntas mais direcionadas, porque você já possui uma noção inicial do problema.
+
+Ela não substitui a conversa direta com quem vive a situação, mas evita que você entre em uma entrevista completamente às cegas.
+
+---
+
+## Conversando com Quem Vive o Problema
+
+O processo de conversar com o mercado é conhecido como **Customer Development**.
+
+Antes de construir qualquer linha de código, converse com pessoas que convivem com o problema. O objetivo não é vender sua ideia, mas entender como elas vivem essa situação atualmente.
+
+Faça perguntas sobre fatos reais:
+
+- Como você faz seus treinos atualmente?
+- O que mais dificulta manter uma rotina de exercícios?
+- Você já tentou treinar com amigos ou participar de algum desafio? O que aconteceu?
+
+Evite perguntas hipotéticas, como:
+
+> "Você usaria um aplicativo que faz isso?"
+
+As pessoas costumam responder muito melhor sobre aquilo que já viveram do que sobre possibilidades futuras.
+
+---
+
+## Nem Toda Dor Grita
+
+Existe uma ideia equivocada de que só vale a pena resolver problemas urgentes e óbvios, como:
+
+- "Meu pagamento não foi processado."
+- "Meu carro quebrou."
+- "Fui roubado."
+
+Esses problemas realmente existem e sustentam negócios enormes, mas representam apenas uma categoria de dor.
+
+Existe outra categoria, muito mais silenciosa, formada por pequenos incômodos repetidos diariamente.
+
+"Treinar sozinho é desmotivador", por exemplo, dificilmente será tratado como uma emergência. Mesmo assim, esse desconforto acontece continuamente e pode levar milhares de pessoas a abandonar um hábito importante.
+
+O **Duolingo** segue uma lógica parecida. Aprender um idioma raramente é uma urgência. O aplicativo não resolve uma emergência, mas combate a perda de motivação e de constância ao longo do tempo.
+
+Essas dores quase nunca aparecem em reclamações explícitas. Elas precisam ser identificadas observando comportamentos, adaptações e hábitos das pessoas.
 
 ---
 
 ## O Primeiro Filtro de Validação
 
-Após coletar os depoimentos reais das suas conversas de Customer Development, filtre o problema através de quatro critérios objetivos:
+Após reunir informações na pesquisa documental e conversar com as pessoas, filtre cada problema utilizando quatro perguntas:
 
-1. Esse problema ou comportamento acontece com frequência significativa?
-2. As pessoas já fazem algum tipo de esforço, gasto ou improviso para tentar resolvê-lo hoje?
-3. Existe uma perda clara de tempo, dinheiro ou energia por causa da falta de uma solução melhor?
-4. O cliente demonstra que ficaria genuinamente aliviado se esse problema desaparecesse amanhã?
+- Esse problema acontece com frequência?
+- As pessoas já fazem algum esforço para resolvê-lo?
+- Existe perda de tempo, dinheiro ou energia?
+- Alguém ficaria aliviado se esse problema desaparecesse?
 
-Se a maioria das respostas para esses critérios for negativa, o problema deve ser sumariamente descartado. Saber abandonar ideias ruins rapidamente poupa o seu tempo para focar nos problemas certos.
+Se a maioria das respostas for negativa, provavelmente esse problema ainda não merece prioridade.
+
+Saber abandonar boas ideias é tão importante quanto encontrar boas oportunidades.
 
 ---
 
 ## Exercício Prático
 
-Dos problemas reais que você encontrou e listou no módulo anterior, selecione cinco para colocar à prova.
+Crie o arquivo `exercicio-modulo-03.md` no seu repositório de acompanhamento.
 
-Crie o arquivo `exercicio-modulo-03.md` no seu repositório de acompanhamento. Converse com pelo menos cinco pessoas reais sobre cada um desses cinco problemas escolhidos.
-Obs.: não apresente soluções ou ideias de software durante a conversa.
+### Passo 1 — Pesquisa Documental
 
-Entenda a rotina dessas pessoas e registre em tópicos objetivos dentro do arquivo:
+Antes de falar com qualquer pessoa, escolha **três** dos problemas encontrados no módulo anterior e procure evidências já existentes sobre eles.
 
-*   Quem é o perfil de pessoa que convive diretamente com a situação.
-*   Como essa dor ou necessidade é resolvida de forma improvisada atualmente.
-*   Com que frequência exata essa situação ocorre na rotina delas.
-*   Quais são as maiores dificuldades e frustrações enfrentadas durante o processo improvisado.
+Você pode utilizar:
 
-Com base nos dados coletados e nas respostas do Filtro de Validação, selecione os três problemas mais promissores e com maior tração de interesse para utilizarmos no processo de priorização do próximo módulo.
+- avaliações de aplicativos concorrentes;
+- discussões em fóruns ou redes sociais;
+- dados públicos;
+- pesquisas;
+- reportagens.
+
+Registre o que encontrou e explique se essas evidências reforçam ou enfraquecem cada hipótese.
+
+---
+
+### Passo 2 — Entrevistas
+
+Escolha **cinco** problemas encontrados no módulo anterior e converse com **pelo menos cinco pessoas** sobre cada um deles.
+
+Não apresente soluções.
+
+Descubra:
+
+- quem convive com o problema;
+- como ele é resolvido atualmente;
+- com que frequência acontece;
+- quais são as maiores dificuldades.
+
+---
+
+### Passo 3 — Seleção
+
+Combinando o que foi encontrado na pesquisa documental com o que foi aprendido nas entrevistas, escolha os **três problemas mais promissores** para utilizar no próximo módulo.
 
 ---
 
