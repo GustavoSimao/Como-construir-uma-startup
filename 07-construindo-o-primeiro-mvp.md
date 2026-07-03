@@ -61,6 +61,22 @@ Em outras palavras, **o primeiro código do seu produto não deve servir para va
 
 ---
 
+## E depois que o produto estiver no ar?
+
+Esse pensamento não termina quando o MVP é lançado. Ele continua sendo uma das principais formas de evoluir um produto de maneira sustentável.
+
+Em vez de desenvolver funcionalidades porque "parecem boas ideias", cada mudança deve existir para validar uma hipótese ou melhorar uma métrica específica. Assim, o desenvolvimento deixa de ser orientado por opiniões e passa a ser orientado por evidências.
+
+**Exemplo:** suponha que os usuários estejam abandonando a plataforma após a primeira semana. Uma hipótese pode ser que um sistema de desafios semanais aumente a retenção. Em vez de criar toda uma nova camada de gamificação, implemente apenas o necessário para testar essa hipótese e acompanhe os resultados.
+
+Se a retenção aumentar, você ganhou evidências para continuar investindo nessa direção. Se não houver impacto, você evita desperdiçar semanas desenvolvendo recursos que não geram valor.
+
+Manter essa mentalidade ao longo de toda a vida do produto é um dos princípios do desenvolvimento *lean*: **construir, medir, aprender e repetir**.
+
+Dessa forma, cada linha de código passa a responder a uma pergunta específica, em vez de antecipar necessidades que talvez nunca existam. É essa disciplina que diferencia produtos que evoluem com base em evidências daqueles que evoluem apenas com base em suposições.
+
+---
+
 ## Exercício Prático: O Experimento Sem Código
 
 Chegou a hora de definir o MVP do seu projeto. Você vai desenhar um teste que possa ser executado sem abrir o editor de código.
