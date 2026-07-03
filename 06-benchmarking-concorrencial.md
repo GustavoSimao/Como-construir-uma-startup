@@ -26,11 +26,11 @@ A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referên
 
 | Concorrente | Diferenciais | Porte | O que faz mal ou não faz? | O que pode ser imitado? | O que fazer melhor? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Twitch** | Transmissão ao vivo e conteúdos diversos | Grande | Foco limitado a streaming e pouca interação física | Sistema de monetização de criadores | Interação física com desafios e apostas elaboradas |
+| **Twitch** | Transmissão ao vivo e conteúdos diversos | Grande | Foco limitado ao público gamer e entretenimento passivo, sem ferramentas de métricas de saúde ou integração com mapas. | Sistema de monetização de criadores e arquitetura de baixa latência para interações em tempo real. | Trazer as transmissões ao vivo para o ambiente mobile focado estritamente em atletas e corredores de rua de forma integrada. |
 | **Jogos Competitivos (LoL/CS)** | Experiência de jogo intensa e competitiva | Grande | Interação física limitada e comunidades por vezes tóxicas | Elementos de gamificação e rankings | Trazer a dinâmica competitiva para a realidade física do esporte |
-| **Strava** | Registro de treinos, desafios e rankings | Grande | Competição direta e próxima entre amigos é limitada | Segmentação de exercícios e comunidades | Tornar a prática física mais lúdica, focada em grupos fechados |
+| **Strava** | Registro de treinos, desafios e rankings | Grande | A interação entre amigos é estritamente assíncrona; não possui suporte para acompanhar treinos ou corridas ao vivo por vídeo. | Segmentação de rotas e criação de comunidades em torno de clubes de corrida. | Adicionar o fator de transmissão e torcida em tempo real (lives) dentro de grupos fechados. |
 | **Apps de Musculação** | Planejamentos personalizados de treinos | Grande | Ausência de socialização e dinâmicas de entretenimento | Estrutura de fichas e treinos segmentados | Integrar elementos de diversão e comunidade aos treinos |
-| **TikTok** | Conteúdo curto, viral e alto engajamento | Grande | Dependência total de criadores para manter a plataforma ativa | Formato dinâmico de vídeos e desafios | Integrar desafios físicos curtos e virais ao cotidiano dos usuários |
+| **TikTok** | Conteúdo curto, viral e alto engajamento | Grande | Consumo de entretenimento puramente passivo e focado em algoritmos globais, sem ferramentas para engajamento em atividades físicas práticas locais. | Formato dinâmico de vídeos curtos, desafios virais e as interações rápidas de chat em lives. | Integrar o formato de lives interativas com métricas de performance reais (velocidade, batimento cardíaco) na tela do streaming. |
 | **Plataformas de Desafios Locais** | Estruturação de desafios em formato de rede social | Pequeno | Apoio escasso à criação de conteúdo e validações frágeis | A disposição base de transformar metas em desafios sociais | Foco total na experiência do cliente (CX) e validação segura de desafios |
 
 ---
