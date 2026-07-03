@@ -49,5 +49,6 @@ Crie o arquivo `exercicio-modulo-08.md` no seu repositório de acompanhamento. E
 
 ### Passo 2: O Treino de Performance
 Utilize o roteiro que você escreveu para treinar a sua fala. Grave um vídeo ou áudio curto (de no máximo 3 minutos) avaliando a sua postura, ritmo, uso de pausas e clareza. 
+> **O fator tempo no mundo real:** Embora bancas de eventos de aceleração ou demodays exijam o padrão clássico de 3 a 5 minutos, a vida real é imprevisível. Você precisa estar pronto para defender sua ideia em um pitch de 1 minuto durante uma conversa rápida caminhando até o carro, ou com mais tempo e naturalidade em um evento de networking. Treinar a síntese no menor tempo possível é o que garante que você nunca perderá uma oportunidade por falta de clareza e garanta o maximo de atenção ao falar.
 
 Atente-se para eliminar vícios de linguagem e certifique-se de que a frase final de encerramento passe a autoridade necessária para blindar o seu posicionamento diante de uma banca.
