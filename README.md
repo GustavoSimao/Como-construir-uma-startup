@@ -28,7 +28,7 @@
 
 ## **Aprenda a mentalidade e os frameworks de mercado moldados para desenvolvedores que visam criar uma startup.**
 
-Ao realizar este curso do começo ao fim, executando os exercícios e dominando os conceitos apresentados, você terá as bases necessárias para finalizar o seu MVP (*Minimum Viable Product*) com um produto sólido, validado e estruturado para o mercado.
+Ao realizar este curso do começo ao fim, executando os exercícios e dominando os conceitos apresentados, você terá as bases necessárias para finalizar o seu MVP (*Minimum Viable Product*) como um produto sólido, validado e estruturado para o mercado.
 
 Todo o ecossistema foi lapidado cirurgicamente para a realidade técnica: Focado em construir a base estratégica essencial que falta na maioria dos desenvolvedores para lançar um negócio sustentável.
 
