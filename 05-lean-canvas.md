@@ -1,14 +1,17 @@
 # Módulo 5 — Estruturando um Modelo de Negócio (Lean Canvas)
 
-Você já sabe qual problema vai resolver, sabe que ele é real através de validações com o mercado e aplicou o framework RICE para priorizá-lo. Resta responder a uma pergunta crucial: como isso vira um negócio sustentável? 
+Você já sabe qual problema vai resolver, já validou que ele existe através de conversas com o mercado e já aplicou o RICE para decidir qual dor merece atenção primeiro. Agora existe uma nova pergunta que define se isso vira um negócio ou apenas um projeto: como essa ideia se sustenta na prática?
 
-O Lean Canvas é um quadro de uma única página dividido em blocos estratégicos que serve para explicitar hipóteses claras no lugar de falsas certezas. É a ferramenta perfeita para o desenvolvedor porque elimina planos de negócios extensos de 50 páginas e foca puramente na lógica de causa e efeito do negócio.
+O Lean Canvas é uma ferramenta de uma única página criada justamente para isso. Ele substitui planos de negócios longos e teóricos por um modelo direto de hipóteses estruturadas, onde cada bloco representa uma parte crítica da lógica do negócio.
+
+A ideia aqui não é “preencher um formulário”. É tornar explícito o que você acha que sabe e, principalmente, o que ainda está apenas supondo.
 
 ---
 
 ## O Layout do Lean Canvas
 
-Para entender a dinâmica do quadro, veja como os blocos tradicionais são distribuídos visualmente. A numeração indica a ordem lógica ideal de preenchimento:
+Para entender a dinâmica do quadro, veja como os blocos tradicionais são distribuídos visualmente. A numeração representa a ordem lógica recomendada de preenchimento:
+
 
 | **1. PROBLEMA** | **4. SOLUÇÃO** | **3. PROPOSTA DE VALOR ÚNICA** | **9. VANTAGEM INJUSTA** | **2. SEGMENTO DE CLIENTES** |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,6 +26,15 @@ Para entender a dinâmica do quadro, veja como os blocos tradicionais são distr
 | Quanto custa para construir e manter o MVP rodando? | Como o negócio vai cobrar e gerar faturamento? |
 
 ---
+
+O ponto central do Lean Canvas é coerência lógica e isso é algo que você deve ser atentar muito ao preenche-lo. Um bloco depende do outro. Se o problema não for real, todo o resto perde sentido.
+
+---
+
+## Exemplo de Quadro Estruturado (Caso de Estudo)
+
+Agora vamos transformar isso em um modelo real, usando o caso que estamos acompanhando ao longo do curso: a plataforma de desafios esportivos e socialização.
+
 
 ## Exemplo de Quadro Estruturado (Nosso Caso de Estudo)
 
@@ -42,19 +54,38 @@ Para ilustrar o framework na prática, veja como fica o modelo de negócio desen
 
 ---
 
-## Exercício Prático: Estruture o seu Modelo
+## Exercício Prático: Estruture seu Modelo
 
-Chegou a hora de tirar a sua ideia da cabeça de forma estruturada. Pegue o problema vencedor que você priorizou usando o framework RICE no Módulo 4 e monte o seu próprio quadro.
+Agora é sua vez de transformar sua hipótese em estrutura.
 
-### Passo 1: Monte a sua Estrutura
-Crie um arquivo chamado `exercicio-modulo-05.md` no seu repositório de acompanhamento. Copie a tabela vazia do bloco de layout acima ou separe os tópicos de 1 a 9 no seu documento Markdown.
+Pegue o problema que venceu no RICE (Módulo 4) e crie seu próprio Lean Canvas.
 
-### Passo 2: Separe Fatos de Suposições
-Ao preencher cada um dos blocos, você deve marcar obrigatoriamente o status de cada afirmação utilizando as tags abaixo:
-*   **[VALIDADO]:** Para informações que você comprovou em conversas reais com o mercado no Módulo 3.
-*   **[HIPÓTESE]:** Para dados que fazem sentido na sua cabeça, mas que você ainda não testou na rua (como o preço exato que vão pagar ou a métrica exato de custo).
+Crie um arquivo chamado `exercicio-modulo-05.md` no seu repositório.
 
-> **Alerta Antiestufamento:** Ao finalizar o preenchimento, releia o quadro inteiro. Se você perceber que preencheu algum bloco com respostas genéricas (ex: colocar *"Canais: Internet"*) apenas para não deixar a célula em branco, apague e investigue mais a fundo. Cada linha do seu canvas precisa ser um plano de ação real.
+---
+
+## Regras de preenchimento
+
+Ao preencher cada bloco, você deve obrigatoriamente marcar o nível de validação:
+
+- **[VALIDADO]** → baseado em entrevistas reais ou evidências observadas no Módulo 3  
+- **[HIPÓTESE]** → suposição ainda não testada diretamente com o mercado  
+
+Exemplo:
+- Segmento de clientes: [HIPÓTESE] adultos que treinam sozinhos...
+- Problema: [VALIDADO] observado em entrevistas com praticantes de corrida...
+
+---
+
+>## Atenção
+>
+>Se você perceber que está preenchendo algum bloco apenas para “não deixar vazio”, pare.
+>
+>Lean Canvas é uma ferramenta de decisão, não um exercício de preenchimento.
+>
+>Cada bloco vazio representa uma pergunta que ainda não foi respondida sobre o seu negócio.
+> 
+>Forçar respostas sem evidência cria uma sensação falsa de clareza e aumenta a chance de decisões baseadas em suposição em vez de respostas validadas.
 
 ---
 
