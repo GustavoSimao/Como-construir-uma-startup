@@ -95,9 +95,9 @@ Escreva a afirmação principal do seu negócio em uma única frase, utilizando 
 
 ### Passo 2: Desenhe o Experimento Manual
 
-Descreva, em até 5 linhas, como você vai testar essa hipótese usando ferramentas gratuitas e processos manuais (WhatsApp, Planilhas, Notion, Formulários, Instagram etc.).
+Descreva, em até 5 linhas, como você vai testar essa hipótese usando ferramentas gratuitas preferencialmente (WhatsApp, Planilhas, Notion, Formulários, Instagram, figma, miro, etc.).
 
-> **Lembre-se:** proibido codar aqui.
+> **Lembre-se:** evite desenvolver mais do que o necessário. O objetivo é aprender, não entregar um produto completo.
 
 ### Passo 3: Defina a Métrica de Sucesso (Critério de Parada)
 
