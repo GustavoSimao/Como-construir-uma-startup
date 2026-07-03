@@ -38,7 +38,7 @@ Para ilustrar o framework na prática, veja como fica o modelo de negócio desen
 
 | **7. ESTRUTURA DE CUSTOS** | **6. FONTES DE RECEITA** |
 | :--- | :--- |
-| Infraestrutura de servidores, bancos de dados, consumo de APIs de mapas/biometria, marketing para aquisição de usuários iniciais e suporte técnico. | **Modelo Híbrido Combinado:** Receita recorrente via assinaturas premium dos usuários (15 a 30 reais mensais) somada ao patrocínio de desafios e eventos por marcas esportivas e academias locais. Essa combinação expande o faturamento e usa o fator social para **blindar** o negócio contra a evasão de clientes. |
+| Infraestrutura de servidores, bancos de dados, consumo de APIs de mapas/biometria, marketing para aquisição de usuários iniciais e suporte técnico. | **Modelo Híbrido Combinado:** Receita recorrente via assinaturas premium dos usuários (15 a 30 reais mensais) somada ao patrocínio de desafios e eventos por marcas esportivas e academias locais. Uso de anuncios dentro do aplicatiivo e venda de dados de consumo, localizacao e preferencias. |
 
 ---
 
