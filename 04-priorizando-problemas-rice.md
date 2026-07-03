@@ -1,43 +1,115 @@
 # Módulo 4 — Priorizando Problemas (RICE)
 
-Se você seguiu o exercício do módulo anterior, provavelmente terminou com três a cinco problemas validados. Todos parecem reais e incomodam alguém, e é exatamente aí que mora a próxima armadilha. Um empreendedor iniciante costuma tentar resolver todos ao mesmo tempo. O resultado, quase sempre, é não resolver nenhum deles direito. Antes de escrever qualquer linha de código, é preciso escolher, e escolher bem exige um critério, não um palpite.
-
-## O framework RICE
-
-> **Nota de Contexto:** No mercado tradicional de tecnologia, o RICE é amplamente utilizado por gerentes de produto para priorizar *features* e tarefas que vão entrar no backlog de desenvolvimento. Aqui, nós vamos inverter essa lógica: **usaremos o framework para priorizar dores e problemas reais de mercado**, garantindo que você foque seus esforços na dor que mais gera valor antes mesmo de começar a codar.
-
-O RICE é uma sigla para quatro perguntas fundamentais:
-
-Reach (Alcance): Quantas pessoas esse problema atinge em um determinado período? Não é uma opinião, é uma estimativa.
-
-Impact (Impacto): Quando esse problema é resolvido, o quanto isso importa para quem o vive? Um impacto alto significa que a pessoa sente uma diferença real no dia a dia. Um impacto baixo significa que ela mal percebe.
-
-Confidence (Confiança): O quanto você confia nas suas estimativas de alcance e impacto? Se você conversou com dezenas de clientes em potencial e todos confirmaram o padrão, a confiança é alta. Se você está apenas supondo, a confiança é baixa, mesmo que o problema apareça bem no papel.
-
-Effort (Esforço): Quanto trabalho, tempo e recursos serão necessários para construir uma primeira versão da solução?
-
-A fórmula matemática para o cálculo é:
-
-**RICE = (Reach × Impact × Confidence) / Effort**
-
-Quanto maior o resultado, maior a prioridade estratégica do problema.
-
-## Moldando o alcance de forma estratégica
-
-A forma como um problema é moldado importa tanto quanto o próprio problema, o que reflete diretamente no indicador de Reach. Se você descrever o gargalo como "um grupo específico de amigos em um bairro sente falta de treinar junto", o alcance será pequeno, restrito a algumas dezenas de pessoas. Por outro lado, se você descrever o mesmo problema como "adultos que praticavam atividade física de forma social na infância e hoje treinam solos, sem estímulos de comparação ou disputa", o alcance muda de patamar. Torna-se um comportamento comum a milhões de pessoas que apenas não tinham esse padrão mapeado.
-
-Essa amplitude de escopo influencia diretamente as funcionalidades futuras da startup. Um problema descrito de forma ampla permite soluções generalizadas que atraem mais tipos de usuários, abrindo caminho para desafios públicos, rankings regionais e integrações com redes de academias. Já um problema descrito de forma estreita limita o crescimento, embora facilite a adesão inicial e a retenção daquele público-alvo específico, gerando comunidades altamente fiéis e dinâmicas observadas em plataformas como o Strava ou o aplicativo Clue, que apoia o gerenciamento do ciclo menstrual.
-
-## Aplicando o RICE
-
-Pegue os problemas validados no módulo anterior e monte uma tabela simples. Para cada um, estime as notas de Reach, Impact e Confidence em uma escala de 1 a 10. Para o indicador de Effort, utilize também a escala de 1 a 10, sabendo que 10 representa o maior esmero de desenvolvimento. Calcule o resultado final de cada linha.
-
-Nenhuma fórmula substitui o julgamento crítico do empreendedor. O RICE organiza a decisão e evita que ela seja tomada apenas pelo entusiasmo do momento.
-
-## Exercício
-
-Monte uma tabela com os problemas validados no Módulo 3. Atribua as notas de 1 a 10 para cada pilar do RICE e calcule a pontuação final de cada um. Escreva, em poucas linhas, a razão pela qual o problema com maior pontuação merece ser o seu próximo passo e por que os outros, mesmo sendo bons, podem esperar. Esse problema vencedor será utilizado no próximo módulo.
+Se você seguiu o exercício do módulo anterior, provavelmente terminou com três a cinco problemas validados. Todos parecem reais e incomodam alguém, e é exatamente aí que mora a próxima armadilha. Um empreendedor iniciante costuma tentar resolver todos ao mesmo tempo. O resultado, quase sempre, é não resolver nenhum deles direito. Antes de escrever qualquer linha de código, é preciso escolher — e escolher bem exige um critério, não um palpite.
 
 ---
 
-[Próximo módulo ➡️](./05-lean-canvas.md)
+## O Framework RICE
+
+Nota de contexto: no mercado tradicional de tecnologia, o RICE foi criado pela Intercom e é amplamente utilizado por gerentes de produto para priorizar features e tarefas dentro do backlog de desenvolvimento de um único produto. Aqui, faremos uma inversão estratégica desse framework: usaremos a mesma lógica para priorizar dores e problemas reais de mercado, garantindo que você foque seus esforços na dor que mais gera valor antes mesmo de começar a codar.
+
+O RICE é uma sigla para quatro perguntas fundamentais:
+
+**Reach (Alcance):** quantas pessoas esse problema atinge em um determinado período? Não é opinião, é estimativa de volume.
+
+**Impact (Impacto):** quando o problema é resolvido, o quanto isso altera o dia a dia de quem vive ele? Impacto alto muda comportamento. Impacto baixo apenas reduz incômodo.
+
+**Confidence (Confiança):** o quanto você confia nas suas estimativas? Se você conversou com pessoas que vivem a dor e encontrou padrão consistente, a confiança sobe. Se é suposição, ela cai — mesmo que a ideia pareça boa.
+
+**Effort (Esforço):** quanto esforço seria necessário para validar a hipótese com o menor experimento possível. Aqui não estamos falando de produto completo, mas de teste inicial.
+
+A fórmula:
+
+RICE = (Reach × Impact × Confidence) / Effort
+
+Quanto maior o resultado, maior a prioridade de teste daquela hipótese.
+
+---
+
+## Nota metodológica importante
+
+O RICE não define “a melhor ideia de negócio”. Ele define apenas **qual hipótese deve ser testada primeiro com os recursos atuais**.
+
+Um problema com pontuação menor pode ser extremamente valioso no futuro. Ele só não é prioridade agora dentro do seu contexto de aprendizado e validação.
+
+---
+
+## Moldando o alcance de forma estratégica
+
+A forma como você descreve o problema altera diretamente o Reach.
+
+- “Um grupo de amigos de um bairro sente falta de treinar junto” → alcance local e pequeno
+- “Adultos que treinavam socialmente na infância hoje treinam sozinhos sem competição” → alcance massivo e comportamental
+
+Essa diferença muda completamente a priorização.
+
+### Exemplo prático
+
+| Descrição do problema | Reach | Impact | Confidence | Effort | RICE |
+|----------------------|------:|-------:|-----------:|-------:|-----:|
+| grupo de amigos local | 2 | 7 | 8 | 3 | 37,3 |
+| adultos treinando sozinhos | 8 | 7 | 6 | 3 | 112 |
+
+Mesmo problema, escalas diferentes, resultado completamente diferente.
+
+---
+
+## O RICE também compara mercados diferentes
+
+Aqui o framework começa a ser usado de forma mais estratégica.
+
+Você pode ter problemas de naturezas completamente diferentes:
+
+- **B2C:** aplicativo de atividades físicas para adultos que treinam sozinhos  
+- **B2B:** automação de processos gerenciais médicos em clínicas pequenas
+
+Esses dois problemas não competem pelo mesmo tipo de usuário, mas competem pelo seu tempo de execução.
+
+### Comparação entre mercados
+
+| Problema validado | Reach | Impact | Confidence | Effort | RICE |
+|------------------|------:|-------:|-----------:|-------:|-----:|
+| app de atividades físicas (B2C) | 8 | 7 | 6 | 3 | 112 |
+| automação de processos médicos (B2B) | 3 | 9 | 7 | 4 | 47,3 |
+
+Aqui entra um ponto importante: B2B costuma parecer “mais sério”, mas isso não significa prioridade automática.
+
+O RICE força você a confrontar isso com números.
+
+- B2B tende a ter maior impacto por cliente
+- B2C tende a ter muito mais alcance
+
+Nenhum é melhor por padrão. O contexto define.
+
+---
+
+## Aplicando o RICE
+
+Pegue os problemas validados no módulo anterior e monte uma tabela simples. Para cada um, estime:
+
+- Reach (1 a 10)
+- Impact (1 a 10)
+- Confidence (1 a 10)
+- Effort (1 a 10, onde 10 = maior esforço de validação)
+
+Depois calcule:
+
+RICE = (Reach × Impact × Confidence) / Effort
+
+---
+
+## Exercício
+
+Monte uma tabela com os problemas validados no Módulo 3.
+
+Para cada problema:
+
+1. Atribua notas de 1 a 10 para Reach, Impact, Confidence e Effort  
+2. Calcule o RICE final  
+3. Justifique em poucas linhas qual problema deve ser testado primeiro e por quê
+
+Esse problema será a base do próximo módulo.
+
+---
+
+Próximo módulo ➡️
