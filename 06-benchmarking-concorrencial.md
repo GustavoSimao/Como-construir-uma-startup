@@ -10,9 +10,17 @@ Para estruturar essa visão, dividimos nossa análise sob dois prismas fundament
 
 ### Análise de Concorrência e Referências
 
-> **Nota: Concorrente Direto vs. Concorrente Indireto**
-> * **Concorrente Direto:** É quem resolve o mesmo problema, da mesma forma e para o mesmo público que você. Se você está criando um app de desafios esportivos, outros apps de desafios ou gamificação de treinos são seus concorrentes diretos (eles disputam o mesmo clique do seu usuário).
-> * **Concorrente Indireto:** É quem resolve o mesmo problema, mas de uma forma completamente diferente. O maior concorrente indireto de um software de gestão muitas vezes não é outro software, mas sim uma planilha de Excel ou um caderno de anotações. Fique atento a eles, pois mudar o hábito de quem usa uma solução indireta costuma ser o maior desafio de mercado.
+>### Concorrente Direto vs. Concorrente Indireto
+>
+>Concorrente não deve ser definido apenas pelo formato do produto, mas pela necessidade que ele resolve.
+>
+>- Concorrente Direto: resolve o mesmo problema, para o mesmo público, com uma solução semelhante. Exemplo: outros aplicativos de tracking de treino com rankings e desafios.
+>
+>- Concorrente Indireto: resolve a mesma necessidade principal, mesmo que de forma completamente diferente. Nesse caso, não é o formato que importa, mas o comportamento que está sendo substituído.
+>
+>No nosso caso, a necessidade central não é apenas registrar treinos, mas manter engajamento social e motivação contínua.
+>
+>Por isso, plataformas como Twitch, jogos competitivos ou redes sociais não são concorrentes por serem “semelhantes”, mas por competirem pelo mesmo recurso: atenção e engajamento contínuo em ambientes sociais e competitivos.
 
 A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referências inspiradoras para o nosso mercado:
 
