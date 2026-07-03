@@ -112,4 +112,4 @@ Esse problema será a base do próximo módulo.
 
 ---
 
-[Próximo módulo ➡️](./05-lean-canvasl.md)
+[Próximo módulo ➡️](./05-lean-canvas.md)
