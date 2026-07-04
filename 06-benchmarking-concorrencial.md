@@ -2,27 +2,26 @@
 
 Antes de desenhar qualquer tela, é fundamental realizar um benchmarking para mapear o mercado, entender onde os competidores falham e identificar métodos que garantem boas performances para adaptá-los à sua realidade.
 
-**No nosso caso, essa análise precisa ir além do óbvio.** Como o nosso modelo de negócio tem o objetivo de transformar o tédio das rotinas físicas em dinâmicas sociais altamente engajadoras, o nosso "mercado" não é apenas o de saúde e fitness, mas sim o mercado da **retenção da atenção**. 
+**No nosso caso, essa análise precisa ir além do óbvio.** Como o nosso modelo de negócio tem o objetivo de transformar o tédio das rotinas físicas em dinâmicas sociais altamente engajadoras, o nosso "mercado" não é apenas o de saúde e fitness, mas sim o mercado da **retenção da atenção**.
 
-Se queremos garantir uma Experiência do Cliente (CX) disruptiva, precisamos entender tanto os players tradicionais do esporte quanto as plataformas que dominam o entretenimento, a monetização e a cultura de desafios virtuais hoje. Só assim conseguiremos extrair as melhores mecânicas de engajamento para aplicar no mundo real, criando uma barreira competitiva sólida e blindando nosso produto contra soluções genéricas.
+Se queremos garantir uma Experiência do Cliente (CX) disruptiva, precisamos entender tanto os players tradicionais do esporte quanto as plataformas que dominam o entretenimento, a monetização e a cultura de desafios virtuais hoje. Só assim conseguiremos extrair as melhores mecânicas de engajamento para aplicar no nosso produto, criando uma barreira competitiva sólida e blindando nosso produto contra soluções genéricas, além também de nos fornecer uma visão melhor de onde e como estamos posicionados no mercado.
 
 Para estruturar essa visão, dividimos nossa análise sob dois prismas fundamentais que são concorrentes diretos e indiretos:
 
-### Análise de Concorrência e Referências
+## Análise de Concorrência e Referências
 
->### Concorrente Direto vs. Concorrente Indireto
->
->Concorrente não deve ser definido apenas pelo formato do produto, mas pela necessidade que ele resolve.
->
->- Concorrente Direto: resolve o mesmo problema, para o mesmo público, com uma solução semelhante. Exemplo: outros aplicativos de tracking de treino com rankings e desafios.
->
->- Concorrente Indireto: resolve a mesma necessidade principal, mesmo que de forma completamente diferente. Nesse caso, não é o formato que importa, mas o comportamento que está sendo substituído.
->
->No nosso caso, a necessidade central não é apenas registrar treinos, mas manter engajamento social e motivação contínua.
->
->Por isso, plataformas como Twitch, jogos competitivos ou redes sociais não são concorrentes por serem “semelhantes”, mas por competirem pelo mesmo recurso: atenção e engajamento contínuo em ambientes sociais e competitivos.
+### Concorrente Direto vs. Concorrente Indireto
 
-A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referências inspiradoras para o nosso mercado:
+Concorrente não deve ser definido apenas pelo formato do produto, mas pela necessidade que ele resolve.
+
+- **Concorrente Direto:** resolve o mesmo problema, para o mesmo público, com uma solução semelhante. Exemplo: outros aplicativos de treino com rankings e desafios.
+- **Concorrente Indireto:** resolve a mesma necessidade principal, mesmo que de forma completamente diferente. Nesse caso, não é o formato que importa, mas o comportamento que está sendo substituído.
+
+No nosso caso, a necessidade central continua sendo treinar com mais constância. Twitch não compete por essa necessidade diretamente, ninguém deixa de treinar por causa dele, mas ele entra na nossa análise como Indireto por um motivo mais específico: nosso mecanismo de engajamento usa transmissão ao vivo e disputa em tempo real, e é exatamente esse recurso que o Twitch já domina e monetiza. Competimos por atenção com ele, mesmo sem competir por treino.
+
+> Conhecer o próprio produto não é a mesma coisa que conhecer o mercado ao redor dele. O Strava compete com a gente pelo produto, treino e constância. O Twitch compete pela forma como monetizamos e utilizamos a atenção em lives para engajamento e retenção; mesmo vendendo algo completamente diferente, disputamos pelo mesmo dinheiro.
+
+A tabela abaixo mapeia os principais concorrentes diretos e indiretos para o nosso mercado:
 
 | Concorrente | Diferenciais | Porte | O que faz mal ou não faz? | O que pode ser imitado? | O que fazer melhor? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -35,14 +34,18 @@ A tabela abaixo mapeia os principais concorrentes diretos e indiretos e referên
 
 ---
 
-## Plano de Acao Baseado no Benchmarking
+## Plano de Ação Baseado no Benchmarking
 
 A partir da análise competitiva, estabelecemos a seguinte ordem de execução estratégica:
 
-1. **O Problema Central Isolado:** Falta de interatividade em tempo real e engajamento lúdico nos aplicativos esportivos tradicionais, que dependem de posts estáticos.
-2. **Referências de Modelagem:** Absorver os rankings dos jogos competitivos e a dinâmica de transmissão em tempo real (lives mobile de baixa latência) da Twitch e do TikTok.
-3. **Diferencial Inegociável:** Permitir que o usuário transmita sua corrida de rua ou treino em tempo real com dados de performance na tela, fazendo com que seu círculo de amigos assista, comente e torça ao vivo. Essa mecânica cria uma comunidade ativa que atua tanto como atleta quanto como espectadora, **blindando** o ecossistema contra a concorrência de apps genéricos de tracking.
+1. **O Problema Central:** Adultos perderam o contexto social e competitivo que tinham no treino em grupo, e mesmo os concorrentes que já tentam resolver isso, como o Strava, ficam limitados à interação assíncrona dentro do app. Isso significa que o usuário continua treinando sozinho a não ser que busque meios fora do aplicativo, mesmo cercado de rankings e comentários, porque nunca existe ninguém ali, ao vivo, para competir ou torcer no momento em que o esforço está acontecendo.
+
+2. **Mecânicas de Modelagem:** Do LoL e do CS, absorver o mecanismo de ranking que sustenta a constância pelo medo de perder posição, além do sistema de matchmaking que conecta desconhecidos para uma partida justa. Da Twitch, absorver a dinâmica de transmissão em tempo real de baixa latência, plataforma que compete com a gente pela mesma forma de monetização via lives.
+
+3. **Diferencial Inegociável:** Permitir que o usuário transmita sua corrida de rua ou treino em tempo real com dados de performance na tela, fazendo com que seu círculo de amigos assista, comente e torça ao vivo. Incluir também um sistema de matchmaking que permita a pessoas em locais diferentes se desafiarem ao vivo no mesmo tipo de treino, mesmo sem se conhecerem previamente. Essa mecânica cria uma comunidade ativa que atua tanto como atleta quanto como espectadora, **blindando** o ecossistema contra a concorrência de apps genéricos de treino.
+
 4. **Estipular métricas de controle:** Acompanhar o volume de desafios criados, as taxas de retenção periódica e os contratos firmados com parceiros comerciais.
+
 5. **Alinhar com a equipe:** Comunicar os caminhos de diferenciação e os indicadores que comprovarão o sucesso da estratégia.
 
 ---
@@ -50,6 +53,8 @@ A partir da análise competitiva, estabelecemos a seguinte ordem de execução e
 ## Exercício Prático: Mapeando o seu Mercado
 
 Agora é a sua vez. Pegue o problema que você validou nos Módulos 2 e 3 e a solução que começou a desenhar no Lean Canvas (Módulo 5). Você vai analisar quem já está no campo de jogo e como seu projeto vai se diferenciar.
+
+>Importante: O Lean Canvas representa as hipóteses atuais do seu negócio. Se o benchmarking revelar novas informações sobre clientes, concorrentes, canais ou diferenciais, revise o canvas antes de continuar. Atualizar hipóteses ao longo do processo é um sinal de aprendizado, não de erro.
 
 ### Passo 1: Monte sua Tabela de Benchmarking
 Crie um arquivo chamado `exercicio-modulo-06.md` no seu repositório de acompanhamento. Escolha pelo menos **3 concorrentes ou referências** (diretos ou indiretos) e preencha a estrutura abaixo:
@@ -60,7 +65,7 @@ Crie um arquivo chamado `exercicio-modulo-06.md` no seu repositório de acompanh
 | **2.** | | | | | |
 | **3.** | | | | | |
 
-> **Dica de Ouro:** Não limite sua análise apenas a concorrentes idênticos. Olhe para mercados paralelos. Se você está criando um app de finanças para devs, seu concorrente indireto pode ser uma planilha, mas sua referência de engajamento diário pode ser o Duolingo.
+> **Dica de Ouro:** Não limite sua análise apenas a concorrentes idênticos. Olhe para mercados paralelos. Se você está criando um app de finanças para devs, seu concorrente indireto pode ser uma planilha ou o duolingo, tudo depende da forma como você enxerga seu produto e o mercado ao redor
 
 ---
 
