@@ -12,7 +12,7 @@ A sua apresentação deve seguir uma linha narrativa estrita e lógica, dividida
 *   **Solução:** Como o seu produto resolve essa dor com eficiência?
 *   **Diferencial:** O que torna a sua abordagem única e superior aos concorrentes?
 *   **Modelo de Negócio:** De que forma a empresa gera receita e se sustenta?
-*   **Mercado:** Qual é o perfil e o tamanho real do público-alvo?
+*   **Mercado:** Qual é o perfil e o tamanho do público-alvo?
 *   **Métricas:** Quais foram os resultados coletados no seu MVP manual e quais são as projeções futuras?
 *   **Convite:** Qual é a chamada para ação (Call to Action) direcionada aos ouvintes?
 
