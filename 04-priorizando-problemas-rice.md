@@ -1,12 +1,15 @@
 # Módulo 4 — Priorizando Problemas (RICE)
 
-Se você seguiu o exercício do módulo anterior, provavelmente terminou com três a cinco problemas validados. Todos parecem reais e incomodam alguém, e é exatamente aí que mora a próxima armadilha. Um empreendedor iniciante costuma tentar resolver todos ao mesmo tempo. O resultado, quase sempre, é não resolver nenhum deles direito. Antes de escrever qualquer linha de código, é preciso escolher — e escolher bem exige um critério, não um palpite.
+Se você seguiu o exercício do módulo anterior, provavelmente terminou com três a cinco problemas validados, cada um confirmado como algo que incomoda um grupo de pessoas. Isso não significa, porém, que todos sejam boas oportunidades de negócio.
 
+Um empreendedor iniciante costuma cometer um de dois erros. O primeiro é tentar resolver todos os problemas ao mesmo tempo, o que quase sempre resulta em não resolver nenhum deles direito. O segundo é escolher apenas no palpite e no achismo, dedicando tempo e energia a uma fase ainda muito prematura do negócio, sem nenhum critério objetivo por trás da escolha. Para evitar os dois, usaremos o framework RICE.
+
+> **Empreender é trabalhar com riscos calculados.** Arriscar algo sem ter plena ciência dos problemas atrelados a essa escolha custa caro, geralmente em tempo e dinheiro que poderiam ter sido poupados com um critério simples de priorização. O RICE serve para colocar esse critério na mesa antes da aposta, não depois dela.
 ---
 
 ## O Framework RICE
 
-Nota de contexto: no mercado tradicional de tecnologia, o RICE foi criado pela Intercom e é amplamente utilizado por gerentes de produto para priorizar features e tarefas dentro do backlog de desenvolvimento de um único produto. Aqui, faremos uma inversão estratégica desse framework: usaremos a mesma lógica para priorizar dores e problemas reais de mercado, garantindo que você foque seus esforços na dor que mais gera valor antes mesmo de começar a codar.
+>Nota: no mercado tradicional de tecnologia, o RICE foi criado pela Intercom e é amplamente utilizado por gerentes de produto para priorizar features e tarefas dentro do backlog de desenvolvimento de um único produto. Aqui, faremos uma inversão estratégica desse framework: usaremos a mesma lógica para priorizar dores e problemas de mercado, garantindo que você foque seus esforços na dor que mais gera valor antes mesmo de começar a codar.
 
 O RICE é uma sigla para quatro perguntas fundamentais:
 
