@@ -15,7 +15,7 @@ Para estruturar essa visão, dividimos nossa análise sob dois prismas fundament
 Concorrente não deve ser definido apenas pelo formato do produto, mas pela necessidade que ele resolve.
 
 - **Concorrente Direto:** resolve o mesmo problema, para o mesmo público, com uma solução semelhante. Exemplo: outros aplicativos de treino com rankings e desafios.
-- **Concorrente Indireto:** resolve a mesma necessidade principal, mesmo que de forma completamente diferente. Nesse caso, não é o formato que importa, mas o comportamento que está sendo substituído.
+- **Concorrente Indireto:** resolve a mesma necessidade principal por um caminho diferente, ou disputa a mesma audiência e o mesmo dinheiro que sustentam o seu modelo de negócio, mesmo sem competir pela necessidade central do seu produto.
 
 No nosso caso, a necessidade central continua sendo treinar com mais constância. Twitch não compete por essa necessidade diretamente, ninguém deixa de treinar por causa dele, mas ele entra na nossa análise como Indireto por um motivo mais específico: nosso mecanismo de engajamento usa transmissão ao vivo e disputa em tempo real, e é exatamente esse recurso que o Twitch já domina e monetiza. Competimos por atenção com ele, mesmo sem competir por treino.
 
