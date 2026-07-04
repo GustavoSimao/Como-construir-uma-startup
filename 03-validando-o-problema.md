@@ -40,7 +40,7 @@ Resista à vontade imediata de desenhar telas ou modelar bancos de dados. Antes 
 
 > **Como as pessoas lidam com esse problema hoje?**
 
-Problemas reais deixam pistas. Normalmente existe alguém improvisando uma solução. Pode ser um grupo de amigos que aposta um lanche em quem corre mais durante o mês, um grupo de WhatsApp para compartilhar treinos ou pessoas utilizando planilhas para acompanhar desafios informais. Essas adaptações são excelentes sinais de que existe uma demanda real.
+Problemas reais deixam pistas. Normalmente existe alguém improvisando uma solução. Pode ser um grupo de amigos que aposta um lanche em quem corre mais durante o mês, um grupo de WhatsApp para compartilhar treinos ou pessoas utilizando planilhas para acompanhar desafios informais. Essas adaptações são excelentes sinais de que existe uma demanda.
 
 Uma parte dessas evidências pode ser encontrada antes mesmo de conversar com qualquer pessoa. Esse tipo de investigação é conhecido como **pesquisa documental** e serve para confirmar ou enfraquecer uma hipótese utilizando informações que já estão disponíveis.
 
