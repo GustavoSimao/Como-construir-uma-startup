@@ -33,7 +33,7 @@ O ponto central do Lean Canvas é coerência lógica e isso é algo que você de
 
 ## Exemplo de Quadro Estruturado (Caso de Estudo)
 
-Agora vamos transformar isso em um modelo real, usando o caso que estamos acompanhando ao longo do curso: a plataforma de desafios esportivos e socialização.
+Agora vamos transformar isso em um modelo, usando o caso que estamos acompanhando ao longo do curso: a plataforma de desafios esportivos e socialização.
 
 
 ## Exemplo de Quadro Estruturado (Nosso Caso de Estudo)
