@@ -1,16 +1,14 @@
 # Módulo 5 — Estruturando um Modelo de Negócio (Lean Canvas)
 
-Você já sabe qual problema vai resolver, já validou que ele existe através de conversas com o mercado e já aplicou o RICE para decidir qual dor merece atenção primeiro. Agora existe uma nova pergunta que define se isso vira um negócio ou apenas um projeto: como essa ideia se sustenta na prática?
+Você já sabe qual problema vai resolver. No Módulo 3, você reuniu evidências desse problema tanto por pesquisa documental quanto por conversas diretas com o mercado, e no Módulo 4 usou o RICE para decidir qual dor merece atenção primeiro. Agora existe uma nova pergunta, mais ampla do que qualquer uma das anteriores: como esse problema se transforma numa estrutura de negócio inteira, com cliente definido, forma de entrega, forma de cobrança e um motivo para não ser facilmente copiado?
 
-O Lean Canvas é uma ferramenta de uma única página criada justamente para isso. Ele substitui planos de negócios longos e teóricos por um modelo direto de hipóteses estruturadas, onde cada bloco representa uma parte crítica da lógica do negócio.
-
-A ideia aqui não é “preencher um formulário”. É tornar explícito o que você acha que sabe e, principalmente, o que ainda está apenas supondo.
+O Lean Canvas é uma ferramenta de uma única página criada justamente para responder isso. Ele substitui planos de negócios longos e teóricos por um modelo direto de hipóteses estruturadas, onde cada um dos nove blocos representa uma parte crítica da lógica do negócio.
 
 ---
 
 ## O Layout do Lean Canvas
 
-Para entender a dinâmica do quadro, veja como os blocos tradicionais são distribuídos visualmente. A numeração representa a ordem lógica recomendada de preenchimento:
+Para entender a dinâmica do quadro, veja como os blocos tradicionais são distribuídos visualmente. A numeração representa a ordem lógica recomendada de preenchimento, e essa ordem não é arbitrária: ela começa no Problema e no Segmento de Clientes porque todos os outros sete blocos dependem diretamente dessas duas respostas, e termina na Vantagem Injusta porque esse costuma ser o bloco que você ainda não sabe responder direito no início, e tudo bem que seja o último a amadurecer.
 
 
 | **1. PROBLEMA** | **4. SOLUÇÃO** | **3. PROPOSTA DE VALOR ÚNICA** | **9. VANTAGEM INJUSTA** | **2. SEGMENTO DE CLIENTES** |
@@ -27,18 +25,13 @@ Para entender a dinâmica do quadro, veja como os blocos tradicionais são distr
 
 ---
 
-O ponto central do Lean Canvas é coerência lógica e isso é algo que você deve ser atentar muito ao preenche-lo. Um bloco depende do outro. Se o problema não for real, todo o resto perde sentido.
+O ponto central do Lean Canvas é a coerência entre os blocos, e essa dependência não se limita ao Problema. O Segmento de Clientes precisa combinar com o Problema descrito. A Solução precisa caber dentro da capacidade desse segmento de adotar algo novo. A Fonte de Receita precisa refletir o que esse mesmo segmento está genuinamente disposto a pagar, não o que seria bom cobrar em teoria. Quando um desses elos quebra, o canvas inteiro perde sustentação, mesmo que cada bloco pareça bem escrito isoladamente.
 
 ---
 
 ## Exemplo de Quadro Estruturado (Caso de Estudo)
 
-Agora vamos transformar isso em um modelo, usando o caso que estamos acompanhando ao longo do curso: a plataforma de desafios esportivos e socialização.
-
-
-## Exemplo de Quadro Estruturado (Nosso Caso de Estudo)
-
-Para ilustrar o framework na prática, veja como fica o modelo de negócio desenhado para a nossa plataforma de desafios esportivos e socialização:
+Veja como esse layout se aplica ao problema que estamos acompanhando ao longo do curso, a plataforma de desafios esportivos e socialização.
 
 | **1. PROBLEMA** | **4. SOLUÇÃO** | **3. PROPOSTA DE VALOR ÚNICA** | **9. VANTAGEM INJUSTA** | **2. SEGMENTO DE CLIENTES** |
 | :--- | :--- | :--- | :--- | :--- |
@@ -52,8 +45,11 @@ Para ilustrar o framework na prática, veja como fica o modelo de negócio desen
 | :--- | :--- |
 | Infraestrutura de servidores, banco de dados relacional, consumo de APIs de mapas/biometria, **custo de banda para streaming de vídeo ao vivo**, marketing para aquisição dos usuários iniciais e suporte técnico. | **Modelo Híbrido Combinado:** Receita recorrente via assinaturas premium dos usuários (na faixa de 15 a 30 reais mensais) somada ao patrocínio de desafios pontuais e eventos por marcas esportivas e academias locais. Essa combinação expande o faturamento e usa o fator social para **blindar** o negócio contra a evasão de clientes. |
 
-> ## Nota de Diagnóstico: O Canvas é um Organismo Vivo
-> O Lean Canvas deve ser lapidado sempre que houver inconsistência na estratégia. No mercado de startups em estágio inicial, é comum o processo de pivotar, que consiste em mudar a direção do negócio ao descobrir que uma premissa estava errada. Se durante o curso você notar que um bloco não se conecta perfeitamente aos outros, mude o preenchimento. Errar no papel é muito mais barato do que errar no código.
+O Lean Canvas deve ser revisado sempre que aparecer uma inconsistência na estratégia. No mercado de startups em estágio inicial, é comum o processo de pivotar, que consiste em mudar a direção do negócio ao descobrir que uma premissa estava errada. Se durante o curso você notar que um bloco não se conecta com os outros, isso raramente se resolve só reescrevendo aquele bloco, geralmente é sinal de que a premissa por trás dele precisa ser validada de novo, ou substituída. Errar no papel é muito mais barato do que errar no código.
+
+>Nota: não tenha medo de apagar o que você escreveu ontem se hoje você sabe mais do que ontem.
+
+
 
 ---
 
