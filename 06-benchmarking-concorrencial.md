@@ -8,7 +8,7 @@ Se queremos garantir uma Experiência do Cliente (CX) disruptiva, precisamos ent
 
 Para estruturar essa visão, dividimos nossa análise sob dois prismas fundamentais que são concorrentes diretos e indiretos:
 
-## Análise de Concorrência e Referências
+## Análise de Concorrência
 
 ### Concorrente Direto vs. Concorrente Indireto
 
@@ -57,9 +57,9 @@ Agora é a sua vez. Pegue o problema que você validou nos Módulos 2 e 3 e a so
 >Importante: O Lean Canvas representa as hipóteses atuais do seu negócio. Se o benchmarking revelar novas informações sobre clientes, concorrentes, canais ou diferenciais, revise o canvas antes de continuar. Atualizar hipóteses ao longo do processo é um sinal de aprendizado, não de erro.
 
 ### Passo 1: Monte sua Tabela de Benchmarking
-Crie um arquivo chamado `exercicio-modulo-06.md` no seu repositório de acompanhamento. Escolha pelo menos **3 concorrentes ou referências** (diretos ou indiretos) e preencha a estrutura abaixo:
+Crie um arquivo chamado `exercicio-modulo-06.md` no seu repositório de acompanhamento. Escolha pelo menos **3 concorrentes diretos ou indiretos** e preencha a estrutura abaixo:
 
-| Concorrente / Referência | Principais Diferenciais | Porte (Grande/Médio/Pequeno) | O que ele faz mal ou simplesmente não atende? | O que pode ser imitado/adaptado? | O que você vai fazer significativamente melhor? |
+| Concorrente | Principais Diferenciais | Porte (Grande/Médio/Pequeno) | O que ele faz mal ou simplesmente não atende? | O que pode ser imitado/adaptado? | O que você vai fazer significativamente melhor? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1.** | | | | | |
 | **2.** | | | | | |
@@ -73,8 +73,8 @@ Crie um arquivo chamado `exercicio-modulo-06.md` no seu repositório de acompanh
 
 Com a tabela preenchida, escreva um plano de ação de 5 pontos para o seu projeto, respondendo de forma direta:
 
-1. **O Problema Central Isolado:** Qual é a falha exata dos concorrentes que você resolve?
-2. **Referências de Modelagem:** Quais dinâmicas de outras plataformas ou mercados você vai absorver?
+1. **O Problema Central:** Qual é a falha exata dos concorrentes que você resolve?
+2. **Mecânicas de Modelagem:** Quais dinâmicas de outras plataformas ou mercados você vai absorver?
 3. **Diferencial Inegociável:** Por que o cliente escolheria você e não a solução atual dele? Como você vai **blindar** o seu negócio contra a concorrência?
 4. **Métricas de Controle:** Quais são os 2 ou 3 indicadores de mercado (ex: taxa de cadastro, recorrência, ações criadas) que vão provar que seu diferencial está funcionando?
 5. **Próximo Passo Prático:** Qual é a primeira funcionalidade ou processo simples que você precisa estruturar para validar esse diferencial?
